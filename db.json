@@ -1,0 +1,88 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "descripcion": "Jugo de Zanahoria tamaño CH",
+      "precio": "31111"
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "descripcion": "Jugo de Naranja tamaño MD",
+      "precio": "1"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "descripcion": "Jugo de Naranja tamaño LG",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "descripcion": "Rib Eye 800g tamaño XL",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "descripcion": "Jugo de Fresa tamaño XL",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Bolsa Mano Negra",
+      "descripcion": "Piel",
+      "precio": "100",
+      "id": 6
+    },
+    {
+      "nombre": "as",
+      "descripcion": "as",
+      "precio": "1",
+      "id": 7
+    },
+    {
+      "nombre": "as",
+      "descripcion": "as",
+      "precio": "1",
+      "id": 8
+    },
+    {
+      "nombre": "vg",
+      "descripcion": "bv",
+      "precio": "5",
+      "id": 9
+    },
+    {
+      "nombre": "Prueba",
+      "descripcion": "asas",
+      "precio": "12",
+      "id": 10
+    },
+    {
+      "nombre": "Prueba",
+      "descripcion": "asas",
+      "precio": "12",
+      "id": 11
+    },
+    {
+      "nombre": "Jola",
+      "descripcion": "qwqw",
+      "precio": "11",
+      "id": 12
+    },
+    {
+      "nombre": "Hola",
+      "descripcion": "ASASA",
+      "precio": "1",
+      "id": 13
+    },
+    {
+      "nombre": "",
+      "descripcion": "",
+      "precio": 0,
+      "id": 14
+    }
+  ]
+}
