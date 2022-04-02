@@ -13,8 +13,10 @@ export function getMoviesAction() {
     try {
       const movies = await clientAxios.get("movie");
       dispatch(fetchMoviesSuccess(movies.data.docs));
+      swal.fire("Éxito", "Plículas obtenidas", "success");
     } catch (error) {
       console.log(error);
+      swal.fire("Error", "Al traer datos", "error");
       dispatch(fetchMoviesError());
     }
   };
